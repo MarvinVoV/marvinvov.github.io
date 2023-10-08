@@ -4,4 +4,4 @@ title: Python
 permalink: /python/
 ---
 
-- [data types](/python_docs/data_type.md)
+- [Data Types](/python/data_types)
