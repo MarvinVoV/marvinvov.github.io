@@ -22,7 +22,7 @@ title: Home
 author: marvinvov
 email: marvinvov@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal technolog blog, welcome to subscribe.
+  marvinvov's technolog blog, welcome to subscribe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/marvinvov" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  marvinvov
