@@ -72,3 +72,9 @@ minima:
 
 # To display post-excerpts on the home page
 show_excerpts: true
+
+
+categories:
+  - java
+  - python
+  - algorithm

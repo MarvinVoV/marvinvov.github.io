@@ -1,6 +1,8 @@
 ---
 layout: page
 permalink: /java/threads
+categories:
+  - java
 ---
 
 
