@@ -8,7 +8,7 @@ categories:
 
 ## Dict
 
-### The methods of creating dict
+### Methods for creating dict
 In Python, you can create dictionaries using various methods. A dictionary is an unordered collection of key-value pairs. Here are several ways to create dictionaries:
 
 1. **Using Curly Braces `{}`**:
@@ -217,7 +217,7 @@ In summary:
 
 
 ## Tuple
-### The methods of creating tuple
+### Methods for creating tuple
 In Python, you can create a tuple using various methods. A tuple is an ordered, immutable collection of elements. Here are several ways to create tuples:
 
 1. **Using Parentheses**:
@@ -297,7 +297,7 @@ In Python, you can create a tuple using various methods. A tuple is an ordered, 
 These are some of the common methods for creating tuples in Python. Tuples are useful when you need an ordered collection of elements that should not be modified after creation.
 
 ## Set
-### The methods of creating set
+### Methods for creating set
 In Python, you can create sets using various methods. A set is an unordered collection of unique elements. Here are several ways to create sets:
 
 1. **Using Curly Braces `{}`**:
