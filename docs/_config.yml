@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Home
+author: marvinvov
 email: marvinvov@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal technolog blog, welcome to subscribe.
@@ -68,10 +69,6 @@ header_pages:
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/marvinvov"}
-
-author:
-  name: MarvinVoV
-  email: "marvinvov@outlook.com"
 
 # To display post-excerpts on the home page
 show_excerpts: true
