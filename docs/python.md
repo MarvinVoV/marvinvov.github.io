@@ -5,3 +5,5 @@ permalink: /python/
 ---
 
 - [Data Types](/python/data_types)
+- [Function](/python/function)
+- [Loop Technique](/python/loop)
