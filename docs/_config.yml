@@ -31,7 +31,6 @@ github_username:  marvinvov
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
 # Markdown parser
 markdown: kramdown
@@ -59,3 +58,17 @@ exclude:
 
 # Permalinks
 permalink: /:title/
+
+
+# Customize navigation links
+header_pages:
+  - java.md
+  - python.md
+  - about.markdown
+
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/marvinvov"}
+
+# To display post-excerpts on the home page
+show_excerpts: true
