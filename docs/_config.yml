@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal technolog blog, welcome to subscribe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/marvinvov" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: marvinvov
 github_username:  marvinvov
 
 # Build settings
@@ -69,6 +68,10 @@ header_pages:
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/marvinvov"}
+
+author:
+  name: MarvinVoV
+  email: "marvinvov@outlook.com"
 
 # To display post-excerpts on the home page
 show_excerpts: true
