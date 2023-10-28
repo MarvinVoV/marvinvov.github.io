@@ -2,6 +2,7 @@
 layout: page
 title: Python
 permalink: /python/
+comments: true
 ---
 
 ![Python Roadmap](/assets/images/roadmap.png)
